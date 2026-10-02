@@ -1,0 +1,11 @@
+client_id,client_type,first_name,last_name,date_of_birth,gender,country,region,acquisition_purpose,satisfaction_score,loan_applied,referral_channel,dob_dt,age,client_ref,total_spent,units_purchased,avg_floor_area,cluster
+C0001,Individual,Kareem,Liu,05-11-1968,F,USA,California,Home,4,Yes,Website,1968-11-05,57,C0001,1246764.72,4,983.885,0
+C0002,Individual,Trystan,Oconnor,11/26/1962,M,USA,California,Home,1,No,Website,1962-11-26,63,C0002,1841095.93,5,1187.942,2
+C0003,Individual,Kale,Gay,04-07-1959,M,USA,California,Home,4,Yes,Agency,1959-07-04,66,C0003,1661457.59,5,1058.11,2
+C0004,Individual,Russell,Gross,11/25/1959,M,USA,California,Home,5,No,Website,1959-11-25,66,C0004,1608263.51,6,937.1033333333334,2
+C0005,Company,Marleez,Co,2/28/1976,M,USA,California,Investment,5,No,Website,1976-02-28,49,C0005,3653385.38,13,927.2961538461538,1
+C0006,Individual,Lilian,Gomez,12-11-1943,M,USA,California,Home,4,No,Website,1943-12-11,82,C0006,1217032.55,4,1166.495,2
+C0007,Individual,Gretchen,Mccormick,6/20/1983,F,USA,California,Investment,4,Yes,Website,1983-06-20,42,C0007,816570.62,3,912.1633333333333,0
+C0008,Individual,Deshaun,Mcdaniel,9/3/1985,M,USA,California,Home,1,No,Website,1985-09-03,40,C0008,1248037.45,4,930.565,0
+C0009,Individual,Maia,Holder,8/31/1953,F,USA,California,Home,3,Yes,Agency,1953-08-31,72,C0009,1016629.41,3,908.41,2
+C0010,Individual,Emerson,Vaughan,10/16/1944,F,USA,California,Home,1,Yes,Website,1944-10-16,81,C0010,1336636.93,4,1033.4725,2
